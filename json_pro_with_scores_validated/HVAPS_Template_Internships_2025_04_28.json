@@ -1,0 +1,30 @@
+[
+  {
+    "Post_ID": "MEM-120-25",
+    "Posting_Author": "The Office of Congressman Robert Garcia (CA-42)",
+    "Congress_Number": null,
+    "State_District": "CA-42",
+    "Location": "Washington, D.C.",
+    "Job_Function": "paid intern position",
+    "Title_Parsed": null,
+    "Office_Type": "branch office or headquarters and field offices",
+    "Responsibilities": [
+      "Compiling daily news clips.",
+      "Drafting press releases and other written materials.",
+      "Copy editing written materials.",
+      "Maintaining press lists.",
+      "Clipping committee remarks and cable hits."
+    ],
+    "Qualifications": [
+      "Previous internship experience in communication with attention to deadlines.",
+      "Ability to work in a fast-paced environment"
+    ],
+    "Salary_Min": 18,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": -0.3810000121593475,
+    "LES": 1.178591370582581
+  }
+]

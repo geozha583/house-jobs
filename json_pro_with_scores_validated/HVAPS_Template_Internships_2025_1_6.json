@@ -1,0 +1,29 @@
+[
+  {
+    "Post_ID": "MEM-515-24",
+    "Posting_Author": "The Office of Congressman Maxwell Alejandro Frost",
+    "Congress_Number": null,
+    "State_District": "FL-10",
+    "Location": "Washington, D.C.",
+    "Job_Function": "null",
+    "Title_Parsed": "Intern",
+    "Office_Type": null,
+    "Responsibilities": [
+      "[Administrative support] to meet the needs of constituents.",
+      "[Tour program coordination]",
+      "Support for legislative and communications teams"
+    ],
+    "Qualifications": [
+      "Administrative skills",
+      "Communication skills",
+      "(Optional) Ties to Florida’s 10th congressional district"
+    ],
+    "Salary_Min": 18,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": -0.4230000078678131,
+    "LES": 0.2817445993423462
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "Post_ID": "MEM-017-25",
+    "Posting_Author": "Congressman Brian Mast's office (R-FL-21)",
+    "Congress_Number": null,
+    "State_District": "FL-21",
+    "Location": "Washington, DC",
+    "Job_Function": "Internship",
+    "Title_Parsed": null,
+    "Office_Type": "Member of Congress's Office",
+    "Responsibilities": [
+      "Answering and logging constituent phone calls",
+      "Assisting with administrative duties"
+    ],
+    "Qualifications": [
+      "Strong written and oral communication skills",
+      "General understanding of the legislative process"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "Flexibility"
+    ],
+    "Equal_Opportunity_Information": "The U.S. House of Representatives is an equal opportunity employer.",
+    "Cleaned_Text": "The O&ice of Congressman Brian Mast (R-FL-21) is currently accepting applications for unpaid internships at the Washington, DC member o&ice during the spring 2025 term...",
+    "DW_NOMINATE": 0.4629999995231628,
+    "LES": 1.620717883110046
+  },
+  {
+    "Post_ID": "MEM-001-25",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "The Democratic Sta& of the U.S. House Select Committee on Strategic Competition between the United States and the Chinese Communist Party seeks qualiﬁed undergraduate students and graduates for paid internships beginning as early as January 20th.\nThis position is hybrid (in-o&ice and remote).\nResponsibilities include, but are not limited to, assisting Committee sta& in preparing for congressional hearings, conducting legislative research, providing support to investigations, drafting memoranda, and performing other policy and administrative tasks as necessary.\n\nInterns play a key role in the o&ice and will work closely with Committee counsel and sta&.\nOur ideal candidates are organized, committed, and eager to join a fast-paced environment and build upon their knowledge of how Congress works—in particular, the role that congressional committees play in the federal legislative process.\nIdeal candidates possess strong organizational, communication, research and writing skills, as well as the ability to manage multiple tasks and work well under pressure in a team environment.\nCandidates with diverse backgrounds and experiences are strongly encouraged to apply. A background and/or interest in subject areas related to the People’s Republic of China is strongly preferred. Interested applicants should submit their resume, cover letter, and one writing sample (two pages max.) to SCCDems.resumes@mail.house.gov.\nPlease put “Spring 2025 Intern Application” in the subject line. In your cover letter, please indicate preferred start/end dates for scheduling purposes.",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

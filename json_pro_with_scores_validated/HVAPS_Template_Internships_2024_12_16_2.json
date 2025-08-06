@@ -1,0 +1,110 @@
+[
+  {
+    "Post_ID": "MEM-505-24",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": "CA-42",
+    "Location": "Washington, D.C. o&ice",
+    "Job_Function": "Press Intern",
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [
+      "Compiling daily news clips.",
+      "Drafting press releases and other written materials.",
+      "Copy editing written materials.",
+      "Maintaining press lists.",
+      "Clipping committee remarks and cable hits."
+    ],
+    "Qualifications": [
+      "previous experience in communications",
+      "attention to detail and deadlines"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "The o&ice is an equal opportunity employer...the basis of race, color, religion, sex, sexual orientation...",
+    "Cleaned_Text": "…The ideal candidate must be able to work in a fast-paced environment and have previous experience in communications with …",
+    "DW_NOMINATE": -0.3810000121593475,
+    "LES": 1.178591370582581
+  },
+  {
+    "Post_ID": "MEM-496-24",
+    "Posting_Author": "Congressman French Hill (AR02)",
+    "Congress_Number": null,
+    "State_District": "AR02",
+    "Location": "Washington, D.C. and Arkansas.",
+    "Job_Function": "Internship in an o&ice",
+    "Title_Parsed": null,
+    "Office_Type": "Washington, D.C. office",
+    "Responsibilities": [
+      "interacting with Arkansans and other visitors",
+      "conducting legislative research and writing",
+      "drafting communications materials",
+      "assisting Arkansans with matters before the federal government"
+    ],
+    "Qualifications": [
+      "positive attitude",
+      "strong work ethic",
+      "excellent written and oral communication skills",
+      "working knowledge of current events and policy topics"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "social media and other communications experience"
+    ],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-491-24",
+    "Posting_Author": "Republican Office",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": "Government and Public Policy",
+    "Title_Parsed": null,
+    "Office_Type": "Legislative Branch",
+    "Responsibilities": [
+      "Administrative tasks include answering phones, greeting visitors, sorting mail, entering data, and drafting correspondence.",
+      "Legislative support includes performing research, drafting public statements, prepping materials for hearings, attending hearings and briefings, reaching out to agencies and other congressional offices, and a host of various special projects."
+    ],
+    "Qualifications": [
+      "Interest in government and public policy",
+      "Energetic and selfmotivated individual"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "The Committee on House Administration Republican Office seeks energetic and selfmotivated individuals with an interest in government and public policy, to apply for its paid, full-time internship program. The Committee on House Administration maintains jurisdiction of federal election policy and manages the day-to-day operations of the House of Representatives with oversight of several offices within the Capitol Complex, including the Chief Administrative Officer, Architect of the Capitol, Clerk of the House, House Inspector General, Sergeant at Arms, U.S. Capitol Police, and other legislative branch entities like the Library of Congress, Government Publishing Office, and the Smithsonian Institution. Working closely with Committee staff, interns will have the opportunity to gain first-hand knowledge of the inner-workings of a congressional committee and learn about the day-to-day administrative operations of the House of Representatives. Interns are responsible for assisting Committee staff with official proceedings (hearings/markups), oversight, research, assisting with phones, and providing support to all Committee staff.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-483-24",
+    "Posting_Author": "The Washington DC OÎice of Congressman Pat Fallon",
+    "Congress_Number": null,
+    "State_District": "Washington, DC",
+    "Location": "Washington",
+    "Job_Function": null,
+    "Title_Parsed": "Internship (Office Worker)",
+    "Office_Type": "Legislatuve Office",
+    "Responsibilities": [
+      "Answer phones",
+      "Run errands",
+      "Research legislation for the Member and legislative sta‖ed attend hearings and briefing",
+      "Answer constituent letters on various issues before the House"
+    ],
+    "Qualifications": null,
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "The Equal Employment Opportunity Commission (EEOC) enforces federal laws against workplace discrimination based on race, color, national origin, sex, sexual orientation, age, disability, and genetic information.",
+    "Cleaned_Text": "MEM-483-24\nThe Washington DC OÎice of Congressman Pat Fallon is looking for spring 2025 interns.\nIn the Washinton, DC oÎice, internships run throughout the fall, spring or summer semesters for college students. The hours are fllexible to accommodate students' hectic course schedules, but generally run 9:00 a.m. to 6:00 p.m. when Congress is in session, and 9:00 a.m. to 5:00 p.m. when not in session.\nIn Washinton, DC interns responsibilities will vary, \u0000they will be asked to answer phones, run errands, reseearch legislation for the Member and legislative staÎd attend hearings and briefings, and answer constituent letters on various issues before the House. As a result, interns learn about the legialative process and the many rther functions of a congressional oÎice.\nTo apply, please visit the “Internships‘ page on Congressman Fallon’s website and complete the application: https://fallon.house.gov/services/internships.htm",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "Post_ID": "MEM-120-25",
+    "Posting_Author": "The Office of Congressman Robert Garcia (CA-42)",
+    "Congress_Number": null,
+    "State_District": "CA-42",
+    "Location": "Washington, D.C. office",
+    "Job_Function": "Press Intern",
+    "Title_Parsed": "Paid Part-Time Press Intern",
+    "Office_Type": "office",
+    "Responsibilities": [
+      "Compiling daily news clips.",
+      "Drafting press releases and other written materials.",
+      "Copy editing written materials.",
+      "Maintaining press lists.",
+      "Clipping committee remarks and cable hits."
+    ],
+    "Qualifications": [
+      "previous internship experience in communication with attention to deadlines.",
+      "ability to work in a fast-paced environment."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      ""
+    ],
+    "Equal_Opportunity_Information": "An equal opportunity employer, we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": -0.3810000121593475,
+    "LES": 1.178591370582581
+  },
+  {
+    "Post_ID": "MEM-128-25",
+    "Posting_Author": "Congresswoman Nicole Malliotakis (NY-11)",
+    "Congress_Number": 11,
+    "State_District": "NY",
+    "Location": "Washington DC",
+    "Job_Function": "",
+    "Title_Parsed": "Congressional Intern",
+    "Office_Type": "",
+    "Responsibilities": [
+      "Drafting constituent correspondence and letters.",
+      "Providing US Capitol tours to Constituents and special guests.",
+      "Researching various issues and writing policy memos for the legislative team.",
+      "Sorting constituent mail and answering office phones.",
+      "Attending legislative and policy briefings.",
+      "Collaborating with our Communications Director on news clips, drafting press releases, etc.",
+      "Supporting staff members and handling special projects when assigned."
+    ],
+    "Qualifications": [
+      "Ideal applicants will be proactive team players, display a genuine interest in politics and public service.",
+      "Successful candidates must have excellent organizational, written, and oral communication skills.",
+      "An applicant who thrives in fast-paced environments, is self-reliant, and is eager to assist when needed are also highly desired."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "Communication",
+      "Organizational"
+    ],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-126-25",
+    "Posting_Author": "Memorandum",
+    "Congress_Number": null,
+    "State_District": "OR-05",
+    "Location": "Oregon City",
+    "Job_Function": null,
+    "Title_Parsed": "Interns",
+    "Office_Type": "District",
+    "Responsibilities": [
+      "Provide a welcoming environment and positive first impression of the district office to constituents, visitors, and other VIPs",
+      "Handle incoming calls with poise, professionalism, and promptness",
+      "Assist Member and key staff with logistical and administrative duties",
+      "Receive and log input from constituents on policy matters for the Member office’s consideration and response"
+    ],
+    "Qualifications": null,
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-110-25",
+    "Posting_Author": "House Committee on Oversight and Government Reform Democrats",
+    "Congress_Number": null,
+    "State_District": "null",
+    "Location": "null",
+    "Job_Function": "Digital Media and Traditional Press Intern",
+    "Title_Parsed": "null",
+    "Office_Type": "full-time",
+    "Responsibilities": [
+      "written content creation",
+      "graphic design",
+      "video editing"
+    ],
+    "Qualifications": null,
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "Adobe Premiere Pro",
+      "Adobe Photoshop",
+      "Adobe InDesign",
+      "Canva"
+    ],
+    "Equal_Opportunity_Information": "null",
+    "Cleaned_Text": "{",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-109-25",
+    "Posting_Author": "House Committee on Natural Resources – Democratic Staff",
+    "Congress_Number": null,
+    "State_District": "null",
+    "Location": "Washington, D.C.",
+    "Job_Function": "null",
+    "Title_Parsed": "Summer Intern",
+    "Office_Type": "null",
+    "Responsibilities": [
+      "Assist with administrative duties",
+      "Assist with legislative and policy projects",
+      "Research legislation, regulations, and public law",
+      "Assist with communications and outreach",
+      "Respond to requests for information",
+      "Attend briefings, meetings, and hearings on behalf of staff"
+    ],
+    "Qualifications": [
+      "Demonstrates an awareness of and sensitivity to the needs and concerns of individuals from diverse cultures, backgrounds, and orientations.",
+      "Understands how HNRC issues intersect with racism, economic and social inequality in the U.S., and has a passion for working to dismantle these systems."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": 3200,
+    "Skills_Mentioned": [
+      "null"
+    ],
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law.",
+    "Cleaned_Text": "{\"text\": \"Mem-109-25\", \"clean_text\": \"MEM-109-25\"}",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-099-25",
+    "Posting_Author": "Congressman Rob Menendez (NJ-08)",
+    "Congress_Number": null,
+    "State_District": "NJ-08",
+    "Location": "Washington, D.C. and Jersey City offices",
+    "Job_Function": "Ideal candidates are organized and passionate undergraduate students, graduate students, or recent graduates with an interest in public service.",
+    "Title_Parsed": "Summer 2025 Internship",
+    "Office_Type": "Congressman's office",
+    "Responsibilities": [
+      "Assisting with front office operations",
+      "Answering phones, recording constituent opinions, and processing other incoming requests",
+      "Drafting memos and conducting legislative research or community outreach"
+    ],
+    "Qualifications": [
+      "Strong organizational skills",
+      "Excellent communication, writing and administrative skills",
+      "Ability to work in a team environment"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": 20,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, military status, gender identity, marital status, parental status, or sexual orientation.",
+    "Cleaned_Text": "{",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-093-25",
+    "Posting_Author": "Congressman Darrell Issa",
+    "Congress_Number": null,
+    "State_District": "CA-48",
+    "Location": "Washington, D.C.",
+    "Job_Function": null,
+    "Title_Parsed": "Legal Fellow – Congressman Darrell Issa",
+    "Office_Type": null,
+    "Responsibilities": [
+      ""
+    ],
+    "Qualifications": [
+      "current law student that possesses critical thinking skills, political acumen...",
+      "discretion, timeliness, strong analytical skills...",
+      "able to work in a fast-paced environment.",
+      "The position will work with schooling needs."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      ""
+    ],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "",
+    "DW_NOMINATE": 0.4779999852180481,
+    "LES": 3.118403196334839
+  },
+  {
+    "Post_ID": "MEM-091-25",
+    "Posting_Author": "The office of Congresswoman Susie Lee is seeking full-time, Summer 2025 Interns for the Washington, D.C. office.",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": "Intern",
+    "Office_Type": "Summer internship",
+    "Responsibilities": [
+      "answering phones",
+      "managing the front office",
+      "assisting legislative staff with research",
+      "assisting the communications teams with drafting"
+    ],
+    "Qualifications": [
+      "having excellent customer service skills",
+      "being a team player"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "Nevada ties"
+    ],
+    "Equal_Opportunity_Information": "The office of Congresswoman Susie Lee is seeking full-time, Summer 2025 Interns for the Washington, D.C. office.",
+    "Cleaned_Text": "answering phones, managing the front office, assisting legislative staff with research, assisting the communications teams with drafting, and other tasks as assigned. Successful candidates work well under deadlines, are organized, hard-working, detail-oriented, have excellent customer service skills, and are team players. Nevada ties are strongly preferred. Interns will be eligible for a monthly stipend.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-050-25",
+    "Posting_Author": "Gwen Moore (WI-04)",
+    "Congress_Number": null,
+    "State_District": "WI-04",
+    "Location": "The Washington, D.C.",
+    "Job_Function": "Internship - Legislative aide",
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [
+      "answering phones",
+      "attending hearings and briefings",
+      "drafting constituent correspondence letters",
+      "writing memos",
+      "conducting research",
+      "drafting social media posts",
+      "designing graphics",
+      "providing day-to-day activity support"
+    ],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "research",
+      "writing"
+    ],
+    "Equal_Opportunity_Information": "We do not discriminate based on race, ethnicity, gender, sexual orientation, religion, national origin, age, or socioeconomic status.",
+    "Cleaned_Text": "The Washington, D.C. office of Congresswoman Gwen Moore (WI-04) seeks Interns for the upcoming Summer 2025 term.",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

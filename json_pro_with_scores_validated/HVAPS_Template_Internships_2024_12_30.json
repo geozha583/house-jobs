@@ -1,0 +1,28 @@
+[
+  {
+    "Post_ID": "MEM-515-24",
+    "Posting_Author": "Congressman Maxwell Alejandro Frost (FL-10)",
+    "Congress_Number": null,
+    "State_District": "Florida’s 10th congressional district",
+    "Location": "Washington, D.C.",
+    "Job_Function": "Internship at $18 per hour and flexible administrative support",
+    "Title_Parsed": "Intern",
+    "Office_Type": "office of Congressman Maxwell Alejandro Frost",
+    "Responsibilities": [
+      "Administrative support to meet the needs of constituents who contact the office",
+      "Answering phone calls",
+      "Assisting with the coordination of tour programs"
+    ],
+    "Qualifications": [],
+    "Salary_Min": 18,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "U.S. House of Representatives and federal government",
+      "Administrative support"
+    ],
+    "Equal_Opportunity_Information": "Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged to apply.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

@@ -1,0 +1,599 @@
+[
+  {
+    "Post_ID": "MEM-221-25",
+    "Posting_Author": "Republican Office",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "House of Representatives with oversight of several offices within the Capitol Complex",
+    "Job_Function": null,
+    "Title_Parsed": "paid, full-time internship program",
+    "Office_Type": null,
+    "Responsibilities": [
+      "assisting Committee staff with official proceedings (hearings/markups)",
+      "oversight",
+      "research",
+      "answering phones",
+      "greeting visitors",
+      "sorting mail",
+      "entering data",
+      "drafting correspondence"
+    ],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "{",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-220-25",
+    "Posting_Author": "Lois Frankel",
+    "Congress_Number": 25,
+    "State_District": null,
+    "Location": "Washington, DC ",
+    "Job_Function": "Internship program",
+    "Title_Parsed": null,
+    "Office_Type": "Capitol Hill office",
+    "Responsibilities": [
+      "attending hearings and briefings on behalf of the Congresswoman",
+      "working directly with the communications team on press strategies",
+      "answering telephones",
+      "compiling daily press clips relevant to the office's priorities",
+      "assisting with constituent correspondence",
+      "providing administrative assistance to the D.C. staff"
+    ],
+    "Qualifications": [
+      "Undergraduate students and recent college graduates",
+      "South Florida ties a plus"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "Women and minorities are encouraged to apply.",
+    "Cleaned_Text": "MEM-220-25\nWe are now accepting applications for the Fall 2025 internship program for the Capitol Hill office of Congresswoman Lois Frankel here in Washington, DC.\n\nThe ideal candidate possesses a high degree of professionalism and maturity, is\ncommitted and diligent, and is a team player with a positive attitude. This position\n-demands the ability to multi-task, strong organizational skills and must work cooperatively\n-and courteously with others in a shared space.\n\nDuties include attending hearings and briefings on behalf of the Congresswoman and\nlegislative staffers, working directly with the communications team on press\nstrategies, answering telephones, compiling daily press clips relevant to the office's\npriorities, assisting with constituent correspondence, and providing administrative\nassistance to the D.C. staff.\n\nUndergraduate students and recent college graduates preferred, South Florida ties a\nplus.\n\nWomen and minorities are encouraged to apply. Interested applicants should\ncommit the below application with a resume and cover letter in a single PDF file. Cover\nletter should detail reasons for applying to the position. A stipend will be given to\ndefaulted applicants.\nDeadline for submission is Wednesday, July 23, 2025 by 11:59pm OR when 100\napplications have been received. If they are selected to interview, interviews will\ntake place starting July 28th.\n\nApplication Link: https://frankel.house.gov/constituent-services/internships.htm\nIf you should have any questions, comments, concerns, or are in need of any additional\ndetails or materials to pass along the internship posting please feel free to contact me\nvia email at amaris.graham@mail.house.gov\n   ---",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-219-25",
+    "Posting_Author": "Congresswoman Sara Jacobs",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "San Diego and Washington, D.C.",
+    "Job_Function": "",
+    "Title_Parsed": null,
+    "Office_Type": "Congressional internship",
+    "Responsibilities": [],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "No",
+    "Cleaned_Text": "MEM-219-25\nCongresswoman Sara Jacobs offers in-person internships in both her San Diego and Washington, D.C. offices.\nThese internships provide young adults with the opportunity to learn more about the inner workings of a congressional office and to experience the legislative process and constituent and community outreach first-hand.\nIf you would like to be considered for an internship in our DC office, please email your resume, cover letter, and a 1 page writing sample to SaraJacobs.DCintern@mail.house.gov\nPlease no direct emails, phone calls, or walk-ins regarding the status of your application.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-218-25",
+    "Posting_Author": "Congressman Shri Thanedar (MI-13)",
+    "Congress_Number": null,
+    "State_District": "MI-13",
+    "Location": "The Washington, D.C. Office of Congressman Shri Thanedar",
+    "Job_Function": "legislative experience",
+    "Title_Parsed": "Legislative Fellow",
+    "Office_Type": "legislative fellowship position",
+    "Responsibilities": [
+      "Performing Research (CRS, the Library of Congress, MIN, or other available resources)",
+      "Attending meetings on behalf of the office",
+      "Drafting talking points, proclamations, and various briefings",
+      "Stuffing the Congressman at various events",
+      "Tracking and responding to constituent requests and letters",
+      "Helping find legislative opportunities for sponsorship and co-sponsorship",
+      "Performing tasks and duties as needed to help day to day activities of the office"
+    ],
+    "Qualifications": [
+      "an eagerness to learn",
+      "research skills",
+      "strong writing skills"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "This office is an Equal Opportunity Employment Office and does not discriminate on the basis of race, color, religion, sex, gender identity, sexual orientation, or age.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": -0.3580000102519989,
+    "LES": 0.3025133609771729
+  },
+  {
+    "Post_ID": "MEM-217-25",
+    "Posting_Author": "Congressman Shri Thanedar",
+    "Congress_Number": null,
+    "State_District": "MI-13",
+    "Location": "The Washington, D.C. Office of Congressman Shri Thaneder",
+    "Job_Function": "press and legislative intern",
+    "Title_Parsed": "press and legislative intern",
+    "Office_Type": "Congressman",
+    "Responsibilities": [
+      "Answering phone calls",
+      "Greeting office visitors",
+      "Drafting constituent correspondence",
+      "Coordinating tour requests and leading tours of the Capitol",
+      "Attending congressional briefings, hearings and other professional development events",
+      "Drafting press releases to be posted on the website and social media accounts",
+      "Researching legislation and writing cosponsor memos for the legislative team"
+    ],
+    "Qualifications": [
+      "An eagerness to learn\nCustomer service skills\nStrong writing skills"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "The office is an Equal Opportunity Employment Office and does not discriminate on the basis of race, color, religion, sex, gender identity, sexual orientation, or age.\n\nWe strongly encourage BIPOC-identifying individuals and members of other underrepresented communities to apply.",
+    "Cleaned_Text": "The Washington, D.C. Office of Congressman Shri Thanedar (MI-13) is now accepting applications for press and legislative internships during the fall 2025 term. This internship is a great opportunity for individuals who seek to gain public service experience and insight into Capitol Hill.",
+    "DW_NOMINATE": -0.3580000102519989,
+    "LES": 0.3025133609771729
+  },
+  {
+    "Post_ID": "MEM-215-25",
+    "Posting_Author": "House Committee on Veterans’ Affairs Majority",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "Washington, D.C.",
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": "full-time",
+    "Responsibilities": [
+      "Administrative and logistical support for hearings",
+      "assisting the committee’s communications team with media relations activities",
+      "conducting legislative research"
+    ],
+    "Qualifications": [
+      "Pursuing or completing Bachelor’s degree",
+      "demonstrated interest in public service"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "Adaptability",
+      "Research and Analysis",
+      "Planning and Coordination",
+      "Interpersonal Skills",
+      "Written Communication"
+    ],
+    "Equal_Opportunity_Information": "All applicants will be considered without regard to race, color, religion,...",
+    "Cleaned_Text": "House Committee on Veterans’ Affairs- Majority",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-214-25",
+    "Posting_Author": "District Office of Representative Joseph Morelle",
+    "Congress_Number": null,
+    "State_District": "NY-25",
+    "Location": "Rochester, NY",
+    "Job_Function": null,
+    "Title_Parsed": "In-person Internship during the Fall Semester 2025",
+    "Office_Type": "District Office",
+    "Responsibilities": [
+      "Completing constituent calls",
+      "Writing letters, certificates, and proclamations",
+      "Day-to-day office work",
+      "Interacting with members of staff in the Rochester office and virtually in the D.C. office",
+      "Other duties delegated by members of staff including various constituent case work or work on District-based projects of importance"
+    ],
+    "Qualifications": [
+      "Excellent communication skills",
+      "Strong attention to detail",
+      "Ability to work in a fast-paced environment",
+      "Good sense of humor",
+      "New York State ties preferred but not required"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "congressional communications",
+      "the legislative process"
+    ],
+    "Equal_Opportunity_Information": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, disability, military status, age, marital status, or parental status.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": -0.3319999873638153,
+    "LES": 0.9010738134384155
+  },
+  {
+    "Post_ID": "MEM-213-25",
+    "Posting_Author": "The Washington, D.C. Office of Representative Joe Morelle",
+    "Congress_Number": null,
+    "State_District": "Washington, D.C.",
+    "Location": "Washington, D.C.",
+    "Job_Function": "Internship",
+    "Title_Parsed": "Intern ( congressional office )",
+    "Office_Type": "Representative's Office",
+    "Responsibilities": [
+      "[Greeting guests and assisting with front office operations.]",
+      "[Answering phones, recording constituent opinions, and correctly processing inquiries.]",
+      "[Conducting Capitol tours for constituents and other guests.]",
+      "[Day-to-day office work to assist with the functioning of the congressional office and other duties as delegated by members of the staff.]",
+      "[Supporting the Legislative Correspondent with sorting mail and drafting constituent letters.]",
+      "[Attending hearings and briefings, as requested by senior staff.]",
+      "[Researching legislation for the Member and legislative team.]",
+      "[Interacting with members of staff in the D.C. office and virtually with the Rochester office.]",
+      "[Other administrative tasks as assigned.]"
+    ],
+    "Qualifications": [
+      "[Possess excellent written and verbal communications skills].",
+      "[Have a strong attention to detail...]",
+      "[Be able to succeed in a fast-paced work environment...]",
+      "[Have a good sense of humor...]"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "[U.S. citizenship]",
+      "[Course schedules]",
+      "[Federal government regulations]"
+    ],
+    "Equal_Opportunity_Information": "The office is an equal opportunity employer and does not discriminate on the basis of race,...",
+    "Cleaned_Text": "Full-time paid internships run Monday through Friday from 9:00 a.m. to 6:00 p.m. when Congress is in session, and 9:00 a.m. to 5:00 p.m. when not in session (refer to the House Calendar). Part-time internships are scheduled to accommodate students'}",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-211-25",
+    "Posting_Author": "Representative Kevin Mullin",
+    "Congress_Number": null,
+    "State_District": "CA-15",
+    "Location": "Washington, DC office",
+    "Job_Function": "Legislative Intern",
+    "Title_Parsed": "Legislative Intern",
+    "Office_Type": "Legislative Office",
+    "Responsibilities": [
+      "answering phones",
+      "researching legislative issues",
+      "drafting constituent correspondence",
+      "attending policy briefings and hearings",
+      "recommendating legislation to the Representative"
+    ],
+    "Qualifications": null,
+    "Salary_Min": 15,
+    "Salary_Max": 20,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": -0.4699999988079071,
+    "LES": 0.05192196369171143
+  },
+  {
+    "Post_ID": "MEM-210-25",
+    "Posting_Author": "Representative Kevin Mullin (CA-15)",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "",
+    "Job_Function": "",
+    "Title_Parsed": "",
+    "Office_Type": "",
+    "Responsibilities": [
+      "Answering telephones",
+      "Compiling daily press clips",
+      "Creating content for social media",
+      "Drafting press releases, newsletters, and other written materials",
+      "Maintaining press lists",
+      "Clipping floor and hearing remarks",
+      "Designing graphics"
+    ],
+    "Qualifications": [],
+    "Salary_Min": 15,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-209-25",
+    "Posting_Author": "The House Judiciary Committee Democratic Staff",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "Washington, DC",
+    "Job_Function": "internship program",
+    "Title_Parsed": "Legal, Clerk, and Press Interns for the Fall 2025 internship Program",
+    "Office_Type": "House Judiciary Committee",
+    "Responsibilities": [
+      "firsthand experience with congressional committee operations",
+      "learn about legislative process",
+      "various substantive projects"
+    ],
+    "Qualifications": [
+      "students",
+      "diverse backgrounds",
+      "undergraduate students",
+      "graduate students"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "The Committee strives to ensure diversity among interns.",
+    "Cleaned_Text": "MEM-209-25\n\nThe House Judiciary Committee Democratic Staff\nunder the leadership of Ranking Member Jamie Raskin, seeks legal, clerk, and press interns for the Fall 2025 internship program.\n\nThis program offers students firsthand experience with the operations of a congressional committee and provides a unique opportunity to learn about the important role the House Judiciary Committee plays in the legislative process. The Committee's jurisdiction spans a wide range of legislative and oversight issues, including oversight of the U.S. Department of Justice, constitutional law, federal criminal law, voting rights, immigration and naturalization, and antitrust law.\n\nInterns work closely with Committee staff—including subcommittee teams, the oversight team, \nand communications staff—on a variety of substantive projects.\n\nThe Committee strives to ensure that our internship class reflects the diversity of the country; candidates from diverse backgrounds are strongly encouraged to apply. The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.\n\nThe deadline for applications for the Fall 2025 session has been extended to July 8, 2025. All internships are in-person, based in Washington, DC, preferably full-time, and open to undergraduate, graduate, and law students. Legal internships are available to law and graduate students, while clerk and press internships are offered to undergraduate students. Intern assignments will vary depending on the work of the House Judiciary Committee each semester.\n\nFor a full description of the legal, clerk, and press internships, as well as to submit your application, please visit our website: https://democratsjudiciary.house.gov/about/internship-opportunities.\n",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-208-25",
+    "Posting_Author": "Congresswoman Janelle Bynum",
+    "Congress_Number": null,
+    "State_District": "OR-05",
+    "Location": "Oregon City, Oregon",
+    "Job_Function": "",
+    "Title_Parsed": "Fall District Internship with the Office of Congresswoman Bynum",
+    "Office_Type": "district office internship",
+    "Responsibilities": [
+      "Handle incoming calls with poise, professionalism, and promptness.",
+      "Assist Member and key staff with logistical and administrative duties.",
+      "Receive and log input from constituents on policy matters for the Member office’s consideration and response.",
+      "Organize press clips and assist the communications team with social media posts and talking points.",
+      "Attend briefings and hearings, conduct research, and draft correspondence and memoranda."
+    ],
+    "Qualifications": [
+      "College student in good academic standing.",
+      "Good oral and written communication skills.",
+      "The ability to handle difficult situations with courtesy, tact and compassion",
+      "Problem-solving skills and the ability to work independently and use good judgement",
+      "Responsible, dependable and willing to learn"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "The Office of Congresswoman Janelle Bynum (OR-05) is seeking part-time interns to join our district office in Oregon City, Oregon. Preferred start date beginning in August 2025, with an end date in December 2025. Seeking applicants available to work in-person 12-24 hours per week.\nDUTIES:\n• Handle incoming calls with poise, professionalism, and promptness.\n• Assist Member and key staff with logistical and administrative duties.\n• Receive and log input from constituents on policy matters for the Member office’s consideration and response.\n• Organize press clips and assist the communications team with social media posts and talking points.\n• Attend briefings and hearings, conduct research, and draft correspondence and memoranda.\nQUALIFICATIONS:\n• College student in good academic standing.\n• Good oral and written communication skills.\n\n• The ability to handle difficult situations with courtesy,",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-207-25",
+    "Posting_Author": "Fall D.C. Internship with the Office of Congresswoman Bynum",
+    "Congress_Number": null,
+    "State_District": "OR-05",
+    "Location": "Washington DC",
+    "Job_Function": "Internship",
+    "Title_Parsed": "Office of Congresswoman Janelle Bynum (OR-05) is seeking part-time interns to join our office in Washington DC.",
+    "Office_Type": "Office of Congresswoman Janelle Bynum (OR-05)",
+    "Responsibilities": [
+      "Handle incoming correspondence with poise, professionalism, and promptness.",
+      "Assist Member and key staff with logistical and administrative duties.",
+      "Update the office’s legislative tracker and perform research on legislative measures.",
+      "Attend briefings and hearings, conduct research, and draft correspondence and memoranda.",
+      "Partner with communications team to create speeches, social media posts, and talking points."
+    ],
+    "Qualifications": [
+      "College student in good academic standing.",
+      "Good oral and written communication skills.",
+      "The ability to handle difficult situations with courtesy, tact and compassion",
+      "Problem-solving skills and the ability to work independently and use good judgement.",
+      "Responsible, dependable and willing to learn."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, or national origin.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-206-25",
+    "Posting_Author": "Congressman Moulton",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "Salem office and Washington D.C. office.",
+    "Job_Function": "Internship",
+    "Title_Parsed": null,
+    "Office_Type": "Congressional staff",
+    "Responsibilities": [
+      "Answering constituent phone calls and greeting constituents at the front desk.",
+      "Categorizing and responding to constituent mail.",
+      "Drafting form letters and cosponsor requests for the Congressman.",
+      "Taking notes at briefings and hearings.",
+      "Conducting tours of the Capitol for constituents.",
+      "Assembling press and news clips.",
+      "Performing a variety of other duties as assigned, such as conducting legislative research."
+    ],
+    "Qualifications": [
+      "Being passionate and driven towards public service",
+      "Being committed to working hard"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "Legislative research",
+      "Public service orientation"
+    ],
+    "Equal_Opportunity_Information": "The Office of Congressman Moulton is an Equal Opportunity Employer and welcomes individuals from diverse backgrounds for internship positions.",
+    "Cleaned_Text": "MEM-206-25\nCongressman Moulton is seeking hard-working individuals who are passionate, driven, and\ncommitted to public service for an internship in his Salem office and Washington D.C.\noffice.\nInternships are intended for current undergraduate students, current graduate students,\nand recent college graduates. Interns receive a stipend distributed based on total hours\nworked.\nD.C. RESPONSIBILITIES\n• Answering constituent phone calls and greeting constituents at the front desk.\n• Categorizing and responding to constituent mail.\n• Drafting form letters and cosponsor requests for the Congressman.\n• Taking notes at briefings and hearings.\n• Conducting tours of the Capitol for constituents.\n• Assembling press and news clips.\n• Performing a variety of other duties as assigned, such as conducting legislative\nresearch.\nDISTRICT RESPONSIBILITIES\n• Answering constituent phone calls and greeting constituents at the front desk.\n• Assisting the Casework Team on a variety of casework requests involving federal\nagencies.\n• Taking notes at briefings and hearings.\n• Assembling press and news clips.\n• Performing a variety of other duties as assigned, such as conducting legislative\nresearch and attending community events.\nAPPLICATIONS\nApplicants can access the application here: https://docs.google.com/forms/d/e/1FAIpQLSd1NOVxgvmGvGyH_1u4e35RUkweW\n\nU24Rmu7gA0Y3HOxKXTkjQ/viewform\nApplicants can find more information on the internship portal at moulton.house.gov under\nthe 'Services' tab. All applications are due on July 10 at 11:59pm and will be reviewed after\nthe application period closes. If you have trouble accessing the application form above or\nhave other questions, please email Julia Clayton (Julia.clayton@mail.house.gov)",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-204-25",
+    "Posting_Author": "The Democratic Staff of the House Energy and Commerce Committee",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": "Summer 2025 Legislative Interns",
+    "Office_Type": "Legislative Interns",
+    "Responsibilities": [
+      "assistant staff with administrative tasks",
+      "conducting legislative research",
+      "preparing materials for staff and member briefings",
+      "shadowing staff at hearings and markups",
+      "attending briefings on subjects within the Committee's broad jurisdiction"
+    ],
+    "Qualifications": [
+      "Superior writing and communication skills",
+      "attention to detail",
+      "a sense of humor"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, or age. Women, minority, and veteran candidates are highly encouraged to apply.",
+    "Cleaned_Text": "----\nMEM-204-25\nThe Democratic Staff of the House Energy and Commerce Committee seeks qualified \ndergrad students and recent graduates for Legislative Interns for the Fall 2025 session.\nAn internship with the Energy and Commerce Democrats is designed to give students a \nthorough understanding of a Congressional committee's role in the legislative\nprocess.\nThroughout the course of the program, interns will assist staff with administrative tasks such as answering phones, conducting legislative research, and preparing materials for staff and member briefings. In addition, interns will have the opportunity to shadow staff at hearings and markups, as well as attend briefings on subjects within the\nCommittee's broad jurisdiction.\nOur ideal candidates are organized and committed students eager to join a fast-paced environment and build upon their knowledge of how Congress works–in particular, the role that congressional committees play in the federal legislative process. Superior writing and communication skills, attention to detail, and a sense of humor are required.\nFulltime availability is preferred, but part-time candidates are eligible as well.\nAll applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, or age. Women, minority, and veteran candidates are highly encouraged to apply. Interns\nwill receive a stipend, and applicants may request the Committee's assistance to receive credit from their educational institution.\nInterested applicants should submit their resume, cover letter, and one writing sample (two pages max.) to InternshipResume.EC.Mail@house.gov. In your cover letter, please indicate preferred start/end dates for scheduling purposes and whether you are available to work full-time or part-time. Please put &quot;Fall 2025 Legislative Intern Application&quot; in the subject line. The deadline for applications is July 25, 2025.\nPlease, no phone calls or drop-ins.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-196-25",
+    "Posting_Author": "House Committee on Natural Resources - Democratic Staff",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "Washington, D.C.",
+    "Job_Function": "Democratic Staff",
+    "Title_Parsed": "Full-time interns for Fall 2025",
+    "Office_Type": "House Committee on Natural Resources",
+    "Responsibilities": [
+      "Assist with administrative duties",
+      "Assist with legislative and policy projects",
+      "Research legislation, regulations, and public law",
+      "Assist with communications and outreach",
+      "Respond to requests for information",
+      "Attend briefings, meetings, and hearings on behalf of staff"
+    ],
+    "Qualifications": null,
+    "Salary_Min": 3200,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-194-25",
+    "Posting_Author": "Congressman French Hill",
+    "Congress_Number": null,
+    "State_District": "AR02",
+    "Location": "dc and little rock offices",
+    "Job_Function": "Internship",
+    "Title_Parsed": null,
+    "Office_Type": "Congress office",
+    "Responsibilities": [
+      "answering constituent phone calls",
+      "assisting staff with administrative tasks",
+      "conducting legislative research",
+      "assisting with correspondence"
+    ],
+    "Qualifications": [
+      "positive attitude",
+      "strong work ethic",
+      "excellent written and oral communication skills",
+      "detail-oriented",
+      "self-starter",
+      "willing to take direction"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "working knowledge of current events",
+      "policy topics",
+      "daily office tasks",
+      "writing and communication skills"
+    ],
+    "Equal_Opportunity_Information": "The U.S. House of Representatives is an equal opportunity/affirmative action employer.",
+    "Cleaned_Text": "Congressman French Hill (AR02) has internship positions available for the Fall 2025 term in both his DC and Little Rock offices.\n\nInterns will work in a fast-paced environment, gaining valuable exposure and knowledge of the legislative process and the U.S. Congress while helping central Arkansans. Intern responsibilities include answering constituent phone calls, assisting staff with administrative tasks, conducting legislative research, and assisting with correspondence.\n\nInterns should have a positive attitude, strong work ethic, and excellent written and oral communication skills. Successful interns will be detail-oriented self-starters, take and listen to direction, and be willing to work both independently and as part of a team.\n\nApplicants should have a working knowledge of current events and policy topics as well as a willingness to assist with daily office tasks. Arkansas ties strongly preferred.\n\nInternships are open to college and graduate students as well as recent graduates. The office offers paid and unpaid internships depending on availability.\n\nTo apply, please send a resume cover letter, and 2 references or letters of recommendation to AR02.Applications@mail.house.gov indicating which location you are applying for. Applications should be submitted by July 6 but will be accepted on a rolling basis until all positions are filled.\n\nIf you have any questions, you can contact the office for additional information at (202) 225-2506.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-193-25",
+    "Posting_Author": "The Democratic Staff of the Committee on Rules",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "",
+    "Job_Function": "",
+    "Title_Parsed": "",
+    "Office_Type": "",
+    "Responsibilities": [
+      "prepare materials for Committee meetings",
+      "conduct research projects",
+      "learn about the Rules of the House and the various procedures for legislation to reach the House Floor",
+      "complete a variety of other administrative tasks"
+    ],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "an equal opportunity employer",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-192-25",
+    "Posting_Author": "Congresswoman Mary Gay Scanlon",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "Washington, DC",
+    "Job_Function": null,
+    "Title_Parsed": "Fall 2025 Legislative Internship – DC Office of Congresswoman Mary Gay Scanlon",
+    "Office_Type": null,
+    "Responsibilities": [
+      "Drafting constituent correspondence",
+      "Researching various legislative issues and writing policy memos for the Congresswoman",
+      "Attending briefings, hearings, and markups and drafting related memoranda",
+      "Responding to constituent mail and answering office phones"
+    ],
+    "Qualifications": [
+      "Motivated team players with strong written and oral communication skills",
+      "Demonstrated interest in government and public service",
+      "Strong work ethic",
+      "Ability to excel in fast-paced environments",
+      "Willingness to assist wherever needed"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "government",
+      "public service"
+    ],
+    "Equal_Opportunity_Information": "Madhumita.Gupta@mail.house.gov",
+    "Cleaned_Text": "Internships are based in Congresswoman Scanlon’s Washington, DC office for college students and recent graduates and will be in person. Hours are flexible to accommodate students’ course schedules, but generally run from 9 a.m. to 5 p.m. The Legislative Internship is paid via monthly stipend.\n\nApplications for Fall 2025 internships will be accepted beginning June 23rd, 2025 and are due July 23rd, 2025.\n\nInternships are based in Congresswoman Scanlon’s Washington, DC office for college students and recent graduates and will be in person. Hours are flexible to accommodate students’ course schedules, but generally run from 9 a.m. to 5 p.m. The Legislative Internship is paid via monthly stipend.\n\nLegislative Internship\n\nResponsibilities include, but are not limited to:\n• Drafting constituent correspondence\n• Researching various legislative issues and writing policy memos for the Congresswoman\n• Attending briefings, hearings, and markups and drafting related memoranda\n• Responding to constituent mail and answering office phones\nIdeal applicants will be motivated team players with strong written and oral communication skills and have a demonstrated interest in government and public service.\nA strong work ethic, the ability to excel in fast-past environments, and a willingness to assist wherever needed are must-have qualities.\nTo apply, please submit a resume, cover letter, one short writing sample, and two references to Madhumita.Gupta@mail.house.gov with the subject line “Fall Legislative Internship, NAME”. Please include availability in the cover letter and compile all application materials into one PDF document.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-187-25",
+    "Posting_Author": "Chrissy Houlahan (D-PA-06)",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "Washington, D.C., Reading, and West Chester",
+    "Job_Function": "Press Intern",
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [
+      "compiling and distributing press clips",
+      "helping draft copy for press and digital materials",
+      "developing digital content"
+    ],
+    "Qualifications": [
+      "adaptable and proactive self-starters",
+      "independent problemsolvers",
+      "strong writing skills",
+      "comfortable communicating to both internal and external audiences",
+      "technical experience with graphic design tools or photo editing programs",
+      "prior volunteer, leadership, and work experience are a plus"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "graphic design tools",
+      "photo editing programs",
+      "video editing software"
+    ],
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer... ",
+    "Cleaned_Text": "press internship program has returned to in-person work with flexible telework options. Ideal applicants are adaptable and proactive self-starters who have experience in a facedpaced, deadline-oriented work environment.",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

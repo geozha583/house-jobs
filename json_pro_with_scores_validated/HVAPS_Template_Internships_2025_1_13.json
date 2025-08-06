@@ -1,0 +1,35 @@
+[
+  {
+    "Post_ID": "MEM-001-25",
+    "Posting_Author": "the Democratic Sta.",
+    "Congress_Number": null,
+    "State_District": "Sta.",
+    "Location": "",
+    "Job_Function": "null",
+    "Title_Parsed": null,
+    "Office_Type": "null",
+    "Responsibilities": [
+      "assisting Committee sta. in preparing for congressional hearings,",
+      "conducting legislative research,",
+      "providing support to investigations,",
+      "drafting memoranda,",
+      "performing other policy and administrative tasks as necessary."
+    ],
+    "Qualifications": [
+      "organized,",
+      "committed,",
+      "strong organizational,"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "null",
+      "the ability to manage multiple tasks and work well under pressure in a team environment.",
+      "management skills"
+    ],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

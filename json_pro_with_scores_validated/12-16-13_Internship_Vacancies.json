@@ -1,0 +1,481 @@
+[
+  {
+    "Post_ID": "MEM-372-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "The Congressional Black Caucus is accepting applications for internship positions available for spring 2014. This unpaid internship will provide valuable hands on experience in developing and executing initiatives for a Congressional Caucus and will provide an understanding the Caucus’s role in the legislative process. This is an excellent opportunity for college students and recent graduates seeking Capitol Hill experience. All majors are encouraged to apply. Interested applicants should e-mail a resume, cover letter, and writing sample to Latrice.Powell@mail.house.gov with “Spring 2014 Internship” in the subject. Please also include dates of availability.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": " MEM-371-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": "Washington’s 6th district",
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": "Internship",
+    "Office_Type": "Congressional office - House of Representatives",
+    "Responsibilities": [
+      "assisting with constituent correspondence",
+      "producing daily press clips",
+      "leading tours of the Capitol"
+    ],
+    "Qualifications": [
+      "personable",
+      "diligent",
+      "part-time and full-time unpaid internships"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "The DC office of Congressman Derek Kilmer, hailing from Washington’s 6th district, is looking for personable, diligent part-time and full-time unpaid interns to start for the winter session (January) through the spring.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-369-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "Washington, D.C.",
+    "Job_Function": "Internship",
+    "Title_Parsed": "Communications Intern",
+    "Office_Type": "Capitol Hill",
+    "Responsibilities": [
+      "drafting press statements",
+      "video editing for online distribution",
+      "social media management"
+    ],
+    "Qualifications": [
+      "Professional and courteous demeanor",
+      "Excellent communications skills",
+      "Ability to multitask"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "MEM-369-13\nThe Congressional Black Caucus is accepting applications for communications\nintern positions available for spring and summer 2014.\nThis unpaid internship\newill provide valuable hands on experience in developing and executing\ncommunications initiatives for a Congressional Caucus and will provide an\nunderstanding the Caucus’s role in the legislative process.\nResponsibilities will include but are not limited to drafting press statements, video editing for online distribution, social media management, drafting communications materials for Members and communications staff and responding to constituent inquiries. Qualified applicants should have a professional and courteous demeanor, excellent communications skills, the ability to multitask, and an interest in the legislative process.\nThis is an excellent opportunity for college students and recent graduates seeking Capitol Hill experience. All majors are encouraged to apply. Those with\njournalism, communications and political science majors are highly encouraged.\nInterested applicants should e-mail a resume,\nand a cover letter to Latrice.Powell@mail.house.gov with “Spring or Summer 2014 Internship” in the subject. Please also include dates of availability.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-368-13",
+    "Posting_Author": "Mario Diaz-Balart (FL-25)",
+    "Congress_Number": 25,
+    "State_District": "FL",
+    "Location": "",
+    "Job_Function": "Internship",
+    "Title_Parsed": "The DC office of Congressman Mario Diaz-Balart (FL-25) is seeking full and part-time unpaid interns",
+    "Office_Type": "DC office",
+    "Responsibilities": [
+      "legislative research",
+      "press support",
+      "managing tour requests",
+      "general administrative duties",
+      "assistance with additional projects as needed"
+    ],
+    "Qualifications": null,
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "The DC office of Congressman Mario Diaz-Balart (FL-25) is seeking full and part-time unpaid interns to begin January through May 2014. There are also more immediate openings available. Intern responsibilities include legislative research, press support, managing tour requests, general administrative duties and assistance with additional projects as needed. The ideal candidate will be a selfstarter who is dependable and possesses a cheerful, outgoing demeanor. Florida ties preferred but not required. Please send your cover letter, resume and references to alena.mikhno@mail.house.gov with “Spring Internship” in the subject line.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-367-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "CA",
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [
+      ""
+    ],
+    "Qualifications": [
+      ""
+    ],
+    "Salary_Min": 0,
+    "Salary_Max": 0,
+    "Skills_Mentioned": [
+      "communications"
+    ],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-366-13",
+    "Posting_Author": "Congresswoman Zoe Lofgren’s Washington, D.C. office for the 2014 Winter Semester.",
+    "Congress_Number": null,
+    "State_District": "the 19th Congressional District, which lies in the heart of California’s “Silicon Valley Valley and\nlie\ntin",
+    "Location": "Washington, D.C.",
+    "Job_Function": "The fast-paced atmosphere of a busy Congressional office and gain invaluable work experience.",
+    "Title_Parsed": "null",
+    "Office_Type": "Congressional office",
+    "Responsibilities": [
+      "answering phones",
+      "running errands",
+      "researching legislation for legislative staff",
+      "attending hearings and briefings",
+      "answering constituent letters on various issues before the House"
+    ],
+    "Qualifications": [
+      "excellent writing and analytical skills",
+      "demonstrated work ethic",
+      "ability to function in a fast-paced environment"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "legislative process",
+      "multitasking",
+      "ability to work well under pressure"
+    ],
+    "Equal_Opportunity_Information": "California ties are preferred but not required.",
+    "Cleaned_Text": "null",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-364-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": "Washington",
+    "Location": "Washington D.C. office; fast paced and valuable internship location",
+    "Job_Function": "press intern",
+    "Title_Parsed": "Press Intern",
+    "Office_Type": "Congressman's",
+    "Responsibilities": [
+      "assisting the Communications Director in writing press releases, tracking press clips, proofreading and editing",
+      "maintaining press lists, updating member’s website and social media",
+      "answering the phone"
+    ],
+    "Qualifications": [
+      "strong interest in political communications",
+      "strong writing skills and ability to work in a high-pressure environment",
+      "Spanish language skills highly preferred",
+      "graphic design abilities are a plus"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "communications",
+      "writing",
+      "design"
+    ],
+    "Equal_Opportunity_Information": "The U.S. House of Representatives is an Equal Opportunity Employer.",
+    "Cleaned_Text": "MEM-364-13 Congressman Cuellar’s Washington, D.C. office is seeking a motivated press intern for a fast paced and valuable internship. Press interns must be able to commit at least 40 hours a week. Interns will learn how a communications shop operates and interacts with the other departments to create a succinct message.\n\n\nJOB DESCRIPTION: \nIntern responsibilities include, but are not limited to:\nassisting the Communications Director in writing press releases, tracking press clips, proofreading and editing, maintaining press lists, updating member’s website and social media,\nadvising with the office’s day-to-day communications operations. Interns may also assist with answering the phone,3\n\nincoming and outgoing mail,\naddressing constituent concerns,",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-363-13",
+    "Posting_Author": "The office of Congressman Bill Shuster",
+    "Congress_Number": null,
+    "State_District": "PA-09",
+    "Location": "Pennsylvania",
+    "Job_Function": "Internship Assistant",
+    "Title_Parsed": null,
+    "Office_Type": "Congressional Office",
+    "Responsibilities": [
+      "opening mail",
+      "answering phones",
+      "constituent correspondence",
+      "attending briefings",
+      "assisting with legislative research",
+      "providing aid to staff-members with various projects"
+    ],
+    "Qualifications": [
+      "self-motivated",
+      "team player",
+      "ready to work in a fast-paced environment",
+      "hard-working",
+      "detail oriented professional",
+      "strong oral and written communication skills"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "various projects",
+      "Pennsylvania",
+      "legislative research"
+    ],
+    "Equal_Opportunity_Information": "We are an equal opportunity employer.",
+    "Cleaned_Text": "The office of Congressman Bill Shuster (PA-09) is currently seeking full and part time spring interns. Candidates should be a self-motivated, team player that is ready to work in a fast-paced environment. Duties include, but are not limited to: opening mail, answering phones, constituent correspondence, attending briefings, assisting with legislative research, and providing aid to staff-members with various projects. The ideal candidate will be a hard-working, detail oriented professional with strong oral and written communication skills. Pennsylvania and district ties are preferred, but not required. Although this position is unpaid, we will work with the student to fulfill requirements for school credit programs.\n\nInterested candidates should email PA09jobs@gmail.com with a resume and a cover letter.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-362-13",
+    "Posting_Author": "Congressman Tim Walz (D-MN)",
+    "Congress_Number": null,
+    "State_District": "MN",
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": "Internship",
+    "Responsibilities": [
+      "attending briefings",
+      "answering the phones",
+      "drafting and responding to constituent letters",
+      "assisting in research",
+      "giving tours of the capitol",
+      "various other administrative tasks"
+    ],
+    "Qualifications": [
+      "highly-motivated",
+      "well-organized",
+      "eager to assist",
+      "interest in the legislative process",
+      "strong written and verbal communications skills",
+      "Minnesota ties"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "legislative process"
+    ],
+    "Equal_Opportunity_Information": "WalzDCInternApplication@hotmail.com",
+    "Cleaned_Text": "Congressman Tim Walz (D-MN) seeks interns for the Spring 2014 semester! Applicants should be highly-motivated, well-organized, and eager to assist with legislative and administrative needs of the staff. Such duties include but are not... <snip> }",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-359-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": "Internship",
+    "Title_Parsed": null,
+    "Office_Type": "",
+    "Responsibilities": [
+      "answering phones",
+      "processing mail",
+      "researching issues",
+      "drafting correspondence",
+      "attending hearings and briefings",
+      "maintaining a professional atmosphere"
+    ],
+    "Qualifications": [
+      "strong writing skills",
+      "effective communication skills",
+      "ability to multi-task"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "null",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-358-13",
+    "Posting_Author": "Congresswoman Carolyn McCarthy (NY-04)",
+    "Congress_Number": null,
+    "State_District": "Fourth Congressional District and Long Island",
+    "Location": "",
+    "Job_Function": "",
+    "Title_Parsed": "",
+    "Office_Type": "",
+    "Responsibilities": [],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "MEM-358-13\nCongresswoman Carolyn McCarthy (NY-04) is currently seeking interns for the 2014 Spring Semester in her Washington, DC office. Qualified candidates will possess an interest in the legislative process, excellent writing and communication skills, and a desire to work in the fast-paced environment of Capitol Hill. Ideal candidates will be professional, dependable, highly motivated, and adept at multitasking.\nResponsibilities will include – but are not limited to – communicating with constituents via phone, drafting constituent correspondence, performing research requests, leading tours of the U.S. Capitol, and administrative work. Interns will also work closely with staff and have the opportunity to attend briefings, hearings, and other events on Capitol Hill.\nStudents or recent graduates with ties to New York State – especially the Fourth Congressional District and Long Island – are encouraged to apply. Full- and parttime candidates will be considered. The internship is unpaid.\nPlease send a cover letter stating your availability, a resume, and a short writing\nsample to Marcus Garza at Marcus.Garza@mail.house.gov with “Spring 2014 Internship” in the subject line.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-357-13",
+    "Posting_Author": "Congresswoman Diana DeGette (CO-01)",
+    "Congress_Number": null,
+    "State_District": "CO-01",
+    "Location": "",
+    "Job_Function": " Intern",
+    "Title_Parsed": "",
+    "Office_Type": "Fast-paced office for an active member of the Democratic leadership(",
+    "Responsibilities": [
+      "answering phones",
+      "sorting mailing",
+      "attending briefings",
+      "drafting constituent correspondence",
+      "providing assistance to the legislative staff"
+    ],
+    "Qualifications": [
+      "excellent writing and communications skills"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "The office of Congresswoman Diana DeGette (CO-01) is accepting applications for Spring 2014 internships. As a fast-paced office for an active member of the Democratic leadership, we expect a lot from our interns and pride ourselves on an excellent internship program.\n\nDuties include, but are not limited to, answering phones, sorting mailing, attending briefings, drafting constituent correspondence, and providing assistance to the legislative staff. Applicants must have excellent writing and communications skills.\n\nInterested applicants should email a cover letter, resume, and brief writing sample to tom.gibson@mail.house.gov with the subject line “Intern Application.”",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-355-13",
+    "Posting_Author": "Congressman Dave Camp",
+    "Congress_Number": null,
+    "State_District": "Michigan's 4th Congressional District",
+    "Location": "Washington, D. C.",
+    "Job_Function": "Internships (Part-time or Full-time)",
+    "Title_Parsed": "Internship Assistant",
+    "Office_Type": "Congressional Office",
+    "Responsibilities": [
+      "Researching legislative issues",
+      "Preparing constituent correspondence",
+      "Data entry",
+      "Helping maintain the efficient day-to-day operations of an active Congressional office"
+    ],
+    "Qualifications": [
+      "Highly motivated",
+      "Excellent oral and written communications skills",
+      "Able to accomplish a variety of tasks and pitch in where needed",
+      "Responsible, dependable, and eager to learn"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "Legislative research",
+      "Communication"
+    ],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-354-13",
+    "Posting_Author": "Representative Scott Tipton (CO-03)",
+    "Congress_Number": null,
+    "State_District": "CO-03",
+    "Location": "The Washington DC office of Representative Scott Tipton",
+    "Job_Function": null,
+    "Title_Parsed": "Internship Vacancy",
+    "Office_Type": null,
+    "Responsibilities": [
+      "assisting staff with legislative research and writing",
+      "attending briefings and committee hearings",
+      "providing tours of the Capitol",
+      "answering phones",
+      "helping staff process constituent's mail and inquiries"
+    ],
+    "Qualifications": [
+      "interest in the legislative process",
+      "motivated",
+      "organized",
+      "reliable",
+      "strong communication and writing skills"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "The U.S. House of Representatives is an Equal Opportunity Employer.",
+    "Cleaned_Text": "MEM-354-13 The Washington DC office of Representative Scott Tipton (CO-03), is currently seeking applicants for Winter Semester unpaid internships.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-353-13",
+    "Posting_Author": "",
+    "Congress_Number": null,
+    "State_District": "",
+    "Location": "",
+    "Job_Function": "",
+    "Title_Parsed": "",
+    "Office_Type": "",
+    "Responsibilities": [],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-316-13",
+    "Posting_Author": "The Office of Congresswoman Maxine Waters",
+    "Congress_Number": null,
+    "State_District": "CA-43",
+    "Location": "Washington, D.C. office",
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": "Congresswoman's Office",
+    "Responsibilities": [
+      "compiling press clips",
+      "monitoring daily news",
+      "drafting talking points and press releases",
+      "updating social media",
+      "working closely with the communications director"
+    ],
+    "Qualifications": [
+      "previous experience in public relations or journalism",
+      "strong written communications skills",
+      "ability to work in a fast-paced environment",
+      "professional manner"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "The Office of Congresswoman Maxine Waters is an equal opportunity employer and welcomes candidates who share the House's commitment to diversity and inclusion.",
+    "Cleaned_Text": "MEM-316-13\nThe Office of Congresswoman Maxine Waters (CA-43) is seeking a full-time or part-time press and social media intern for the spring of 2014 in her Washington, D.C. office. Responsibilities will include, but are not limited to compiling press clips, monitoring daily news, drafting talking points and press releases, updating social media and working closely with the communications director. The ideal candidate will have previous experience in public relations or journalism; possess strong written communications skills, ability to work in a fast-paced environment, and professional manner. Please note that the internship is unpaid and housing is 6\nnot provided, but student can qualify for academic credit depending on the requirements of the college or university. Interested applicants should e-mail a cover letter, resume, short writing sample (in the form of a speech or press release) and dates of availability with ",
+    "DW_NOMINATE": -0.656000018119812,
+    "LES": 1.28559672832489
+  },
+  {
+    "Post_ID": "MEM-286-13",
+    "Posting_Author": "Congressman Dennis A. Ross",
+    "Congress_Number": 15,
+    "State_District": "FL-15",
+    "Location": "Washington D.C.",
+    "Job_Function": "Internship/Vacancy",
+    "Title_Parsed": "Unpaid Interns in DC Office",
+    "Office_Type": "",
+    "Responsibilities": [
+      " answering phones and mail ",
+      " attending hearings ",
+      " leading tours ",
+      " providing support to legislative and communications staff "
+    ],
+    "Qualifications": [
+      "research",
+      "writing",
+      "multi-tasking"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "interaction with constituents",
+      "florida ties (preferred)"
+    ],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": 0.4079999923706055,
+    "LES": 2.504832983016968
+  }
+]

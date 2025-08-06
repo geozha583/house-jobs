@@ -1,0 +1,181 @@
+[
+  {
+    "Post_ID": "MEM-101-14",
+    "Posting_Author": null,
+    "Congress_Number": 4,
+    "State_District": "NV-4",
+    "Location": "UNPAID internships",
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": "The Office of Congressman Steven Horsford",
+    "Responsibilities": [
+      "assisting the legislative",
+      "communications",
+      "administrative staff",
+      "conducting Capitol Tours",
+      "drafting constituent response letters",
+      "performing legislative research"
+    ],
+    "Qualifications": [
+      "college students or recent graduates",
+      "Nevada’s 4th Congressional District",
+      "diverse background"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "The Office of Congressman Steven Horsford (NV-4) seeks motivated, organized, and reliable college students or recent graduates wishing to gain Capitol Hill experience for full/part-time, 10-week, UNPAID internships.",
+    "DW_NOMINATE": -0.3219999969005585,
+    "LES": 0.2571782469749451
+  },
+  {
+    "Post_ID": "MEM-377-13",
+    "Posting_Author": null,
+    "Congress_Number": 13,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": "Undergraduate or Graduate Press Intern",
+    "Office_Type": null,
+    "Responsibilities": [
+      "helping draft materials",
+      "manage the Committee press list",
+      "organize and staff Committee press conferences",
+      "provide communications support at Committee hearings and markups",
+      "assisting with the production of daily news clips relating to Committee issues",
+      "answering phones",
+      "sorting and distributing mail"
+    ],
+    "Qualifications": [
+      "experience in writing or communication",
+      "ability to work well under pressure"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "The Committee on Education and the Workforce, Democratic Staff is currently seeking an undergraduate or graduate press intern for the Spring of 2014. The intern will perform a variety of tasks that support the staff’s media work, which may include helping draft materials, manage the Committee press list, organize and staff Committee press conferences, provide communications support at Committee hearings and markups, and assisting with the production of daily news clips relating to Committee issues. ",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-372-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": "Internship Position",
+    "Office_Type": "Congressional Caucus",
+    "Responsibilities": [
+      "Developing and executing initiatives for a Congressional Caucus",
+      "Gaining an understanding of the Caucus's role in the legislative process"
+    ],
+    "Qualifications": null,
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "The Congressional Black Caucus is accepting applications for internship positions available for spring 2014. This unpaid internship will provide valuable hands on experience in developing and executing initiatives for a Congressional Caucus and will provide an understanding the caucus’s role in the legislative process. This is an excellent opportunity for college students and recent graduates seeking Capitol Hill experience. All majors are encouraged to apply. Interested applicants should e-mail a resume, cover letter, and writing sample to Latrice.Powell@mail.house.gov with “Spring 2014 Internship” in the subject. Please also include dates of availability.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-371-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": "Washington’s 6th",
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-369-13",
+    "Posting_Author": null,
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": "communications intern",
+    "Office_Type": null,
+    "Responsibilities": [
+      "drafting press statements",
+      "video editing for online distribution",
+      "social media management"
+    ],
+    "Qualifications": [
+      "professional and courteous demeanor",
+      "excellent communications skills",
+      "ability to multitask",
+      "interest in the legislative process"
+    ],
+    "Salary_Min": 0,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "This is an excellent opportunity for college students and recent graduates seeking Capitol Hill experience. All majors are encouraged to apply. Those with journalism, communications and political science majors are highly encouraged.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-368-13",
+    "Posting_Author": "Mario Diaz-Balart (FL-25)",
+    "Congress_Number": null,
+    "State_District": "FL-25",
+    "Location": "DC office of Congressman Mario Diaz-Balart",
+    "Job_Function": "",
+    "Title_Parsed": "Internship",
+    "Office_Type": "full-time and part-time unpaid",
+    "Responsibilities": [
+      "legislative research",
+      "press support",
+      "managing tour requests",
+      "general administrative duties"
+    ],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "MEM-368-13. The DC office of Congressman Mario Diaz-Balart (FL-25) is seeking full and part-time unpaid interns to begin January through May 2014. There are also more immediate openings available. Intern responsibilities include legislative research, press support, managing tour requests, general administrative duties and assistance with additional projects as needed. The ideal candidate will be a selfstarter who is dependable and possesses a cheerful, outgoing demeanor. Florida ties preferred but not required. Please send your cover letter, resume and references to alena.mikhno@mail.house.gov with ",
+    "DW_NOMINATE": -0.4160000085830688,
+    "LES": 1.109726786613464
+  },
+  {
+    "Post_ID": "MEM-365-13",
+    "Posting_Author": "Congressman Dave Loebsack, IA-02-D",
+    "Congress_Number": 1,
+    "State_District": "",
+    "Location": "Washington, D.C.",
+    "Job_Function": "",
+    "Title_Parsed": "",
+    "Office_Type": "",
+    "Responsibilities": [
+      "answering phones",
+      "sorting mail and faxes",
+      "giving tours of the Capitol",
+      "assisting with constituent correspondence"
+    ],
+    "Qualifications": [
+      "current or recent college students"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": 3,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "Congressman Dave Loebsack, IA-02-D is hiring spring interns for his Washington, D.C. office.",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

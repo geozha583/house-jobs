@@ -1,0 +1,63 @@
+[
+  {
+    "Post_ID": "MEM-120-25",
+    "Posting_Author": "Office of Congressman Robert Garcia (CA-42)",
+    "Congress_Number": null,
+    "State_District": "CA-42",
+    "Location": "Washington, D.C.",
+    "Job_Function": "Press Intern",
+    "Title_Parsed": "Paid Part-Time Press Intern",
+    "Office_Type": "Congressman's Office",
+    "Responsibilities": [
+      "Compiling daily news clips.",
+      "Drafting press releases and other written materials.",
+      "Copy editing written materials.",
+      "Maintaining press lists.",
+      "Clipping committee remarks and cable hits."
+    ],
+    "Qualifications": [
+      "previous experience in communication with attention to deadlines.",
+      "ability to work in a fast-paced environment."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": 18,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "Cleaned_Text": "The Office of Congressman Robert Garcia (CA-42) is hiring for a Paid Part-Time Press Intern position as soon as possible to work in the Washington, D.C. office. The Press Intern works closely with the communications team. Base salary is $18/h. Tues-Thurs in person 9:00 a.m. - 2:00 p.m. and Mon & Fri remote 9:00 a.m. - 1:30 p.m. Flexible for the right candidate.\n\nPrimary educational opportunities and responsibilities will include:\n• Compiling daily news clips.\n• Drafting press releases and other written materials.\n• Copy editing written materials.\n• Maintaining press lists.\n• Clipping committee remarks and cable hits.\nThe ideal candidate must be able to work in a fast-paced environment and have previous\nintern experience in communication with attention to deadlines.\nAll qualified applicants, including candidates of diverse backgrounds, are encouraged to\napply. The office is an equal opportunity employer and does not discriminate on the basis\nof race, color, religion, sex, sexual orientation, gender identity and expression, national\norigin, disability, military status, age, marital status, or parental status. Interested\ndefault-applications should send a one page resume, 1 sample press release, and 3 relevant sample\ntweets to sara.guerrero@mail.house.gov, emily.kassner-marks@mail.house.gov,\nand ethan.cesar@mail.house.gov with “INTERN APP: Full Name, Spring 2025” in the\nsubject line.\nApplications will be reviewed on a rolling basis.",
+    "DW_NOMINATE": -0.3810000121593475,
+    "LES": 1.178591370582581
+  },
+  {
+    "Post_ID": "MEM-110-25",
+    "Posting_Author": "House Committee on Oversight and Government Reform Democrats",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": null,
+    "Job_Function": "Internship - Digital Media and Traditional Press",
+    "Title_Parsed": null,
+    "Office_Type": "Committee",
+    "Responsibilities": [
+      "written content creation",
+      "graphic design",
+      "video editing",
+      "performing other press and administrative tasks"
+    ],
+    "Qualifications": [
+      "familiarity with programs such as Adobe Premiere Pro",
+      "knowledge of graphic design and video editing tools",
+      "ability to compile and interpret social media analytics"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "Adobe Premiere Pro",
+      "Adobe Photoshop",
+      "Adobe InDesign",
+      "Canva"
+    ],
+    "Equal_Opportunity_Information": "The Committee seeks candidates from diverse backgrounds and experiences.",
+    "Cleaned_Text": "The House Committee on Oversight and Government Reform Democrats seek two motivated and reliable students to fill two full-time Digital Media and Traditional Press Intern positions this Summer.",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

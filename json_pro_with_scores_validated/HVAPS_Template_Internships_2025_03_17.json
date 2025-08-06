@@ -1,0 +1,380 @@
+[
+  {
+    "Post_ID": "MEM-098-25",
+    "Posting_Author": "Congressman Rob Menendez (NJ-08)",
+    "Congress_Number": null,
+    "State_District": "NJ-08",
+    "Location": "Washington, D.C.",
+    "Job_Function": "Press/Digital Internship",
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [
+      "Media monitoring and tracking press coverage related to the Congressman and his work",
+      "Video editing and graphic creation",
+      "Drafting newsletters"
+    ],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, military status, gender identity, marital status, parental status, or sexual orientation.",
+    "Cleaned_Text": "Congressman Rob Menendez ( NJ - 08 ) seeks a press intern to start immediately in his Washington , D . C. office . The ideal candidate will be reliable , creative , organized , and motivated . Applicants should be self - starters with excellent communication and writing skills .",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-097-25",
+    "Posting_Author": "Congresswoman Rosa L. DeLauro (CT-03)",
+    "Congress_Number": null,
+    "State_District": "CT-03",
+    "Location": "Washington, D.C.",
+    "Job_Function": null,
+    "Title_Parsed": "DC Internship",
+    "Office_Type": null,
+    "Responsibilities": [
+      "The office of Congresswoman DeLauro runs an internship program",
+      "Interns are involved in all aspects of the office including constituent services, correspondence, and legislative research",
+      "providing general staff support"
+    ],
+    "Qualifications": [
+      "An ability to work in a fast-paced environment",
+      "Possess excellent writing skills",
+      "an enthusiastic attitude"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "Applicants and employees shall not be discriminated against with respect to compensation, terms, conditions, or privileges of employment, because of such person’s race, color, religion, sex, age, national origin, service in the military, disability, or sexual orientation.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-096-25",
+    "Posting_Author": "The Office of Congressman Pat Harrigan (NC-10)",
+    "Congress_Number": null,
+    "State_District": "NC-10",
+    "Location": null,
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": "Internship",
+    "Responsibilities": null,
+    "Qualifications": [
+      "current undergraduate or graduate student or have recently graduated.",
+      "Demonstrate an interest in politics, policy and/or public service.",
+      "Have strong communications and writing skills.",
+      "Be hard-working, dependable, detail-oriented and professional."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "",
+    "DW_NOMINATE": 0.5239999890327454,
+    "LES": 3.623960256576538
+  },
+  {
+    "Post_ID": "MEM-093-25",
+    "Posting_Author": "Congressman Darrell Issa",
+    "Congress_Number": null,
+    "State_District": "CA-48",
+    "Location": "Washington, D.C.",
+    "Job_Function": "Legal Fellow",
+    "Title_Parsed": "Legal Fellow – Congressman Darrell Issa",
+    "Office_Type": null,
+    "Responsibilities": [
+      "assisting the Congressman’s Judiciary team with legislative research",
+      "memo drafting",
+      "preparing materials for upcoming hearings for the Subcommittee on",
+      "the Courts",
+      "Intellectual Property",
+      "Artificial Intelligence",
+      "and the Internet",
+      "as well as his work on the Antitrust Subcommittee and full Judiciary Committee."
+    ],
+    "Qualifications": [
+      "current law student",
+      "possesses critical thinking skills",
+      "political acumen",
+      "discretion",
+      "timeliness",
+      "strong analytical skills",
+      "able to work in a fast-paced environment.",
+      "working with schooling needs."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "none explicitly mentioned"
+    ],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "",
+    "DW_NOMINATE": 0.4779999852180481,
+    "LES": 3.118403196334839
+  },
+  {
+    "Post_ID": "MEM-091-25",
+    "Posting_Author": "Congresswoman Susie Lee",
+    "Congress_Number": null,
+    "State_District": "NV01",
+    "Location": "Washington, D.C.",
+    "Job_Function": "Office Assistance",
+    "Title_Parsed": null,
+    "Office_Type": "Legislative Office",
+    "Responsibilities": [
+      "answering phones",
+      "managing front office",
+      "assisting legislative staff with research",
+      "assisting communications teams with drafting",
+      "other tasks as assigned"
+    ],
+    "Qualifications": [
+      "work well under deadlines",
+      "organized",
+      "hard-working",
+      "detail-oriented",
+      "excellent customer service skills",
+      "team player",
+      "Nevada ties strongly preferred"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "The office of Congresswoman Susie Lee is an equal opportunity employer.",
+    "Cleaned_Text": "Summer 2025 DC Internship",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-090-25",
+    "Posting_Author": "Representative Diana Harshbarger (R-TN-01)",
+    "Congress_Number": null,
+    "State_District": "TN-01",
+    "Location": "Washington, D.C.",
+    "Job_Function": "Press/Digital Internship",
+    "Title_Parsed": "Press/Digital Intern",
+    "Office_Type": "Internship",
+    "Responsibilities": [
+      "Assist in drafting press releases, media advisories, talking points, and social media content.",
+      "Monitor news coverage and compile daily press clips.",
+      "Help manage the Member’s social media accounts, including drafting and scheduling posts.",
+      "Track media requests and assist in preparing responses.",
+      "Conduct research to support press and communications initiatives.",
+      "Assist with the production of digital content, including graphics and videos.",
+      "Attend and take notes at press events, briefings, and hearings as needed.",
+      "Perform administrative tasks to support the communications team."
+    ],
+    "Qualifications": [
+      "Strong writing, editing, and research skills.",
+      "A keen interest in conservative politics, media, and policy issues.",
+      "Experience with social media platforms (Twitter/X, Facebook, Instagram) and digital content creation.",
+      "Ability to work in a fast-paced environment and handle multiple tasks.",
+      "A positive attitude, strong work ethic, and attention to detail."
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "This internship is an equal opportunity.",
+    "Cleaned_Text": "Representative Diana Harshbarger (R-TN-01) seeks a highly motivated and detailoriented Press/Digital Intern to join their Washington, D.C. office. This position offers an excellent opportunity for hands-on experience in political communications, media relations, and public messaging on Capitol Hill. This intern will work directly with, and report to the Communications Director.\n\nThis paid internship is open to undergraduate and graduate students from early May through late August. General hours are 9:00 AM to 6:00 PM when Congress is in session and 9:00 AM to 5:00 PM when it is not.\n\nInterested applicants must submit a PDF file containing a cover letter and resume to be considered. As a bonus, applicants may submit additional materials with examples of digital work or writing samples. This must all be emailed [sam.somogye@mail.house.gov](mailto:sam.somogye@mail.house.gov) and holly.lay@mail.house.gov with the subject line,“Press/Digital Internship Application — [Your Name]”\n\nResponsibilities:\n  · Assist in drafting press releases, media advisories, talking points, and social media content.\n  · Monitor news coverage and compile daily press clips.\n\nHelp manage the Member’s social media accounts, including drafting and scheduling posts.\n  · Track media requests and assist in preparing responses.\n  · Conduct research to support press and communications initiatives.\n  · Assist with the production of digital content, including graphics and videos.\n  · Attend and take notes at press events, briefings, and hearings as needed.\n  · Perform administrative tasks to support the communications team.\n\nQualifications:\n  · Strong writing, editing, and research skills.\n  · A keen interest in conservative politics, media, and policy issues.\n  · Experience with social media platforms (Twitter/X, Facebook, Instagram) and digital content creation.\n  · Ability to work in a fast-paced environment and handle multiple tasks.\n  · A positive attitude, strong work ethic, and attention to detail.\n\nPreferences:\n  · Completed undergraduate degree.\n  · Prior internship or experience in communications, journalism, or politics.\n  · Proficiency in graphic design or video editing.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-089-25",
+    "Posting_Author": "Congresswoman Dina Titus (NV-01)",
+    "Congress_Number": null,
+    "State_District": "(NV-01)",
+    "Location": "D.C. office",
+    "Job_Function": "Legislative Intern",
+    "Title_Parsed": "",
+    "Office_Type": "office of Congresswoman Dina Titus",
+    "Responsibilities": [
+      "answering constituent phone calls",
+      "attending policy briefings and meetings",
+      "providing tours of the United States Capitol",
+      "conducting legislative research"
+    ],
+    "Qualifications": [
+      "excellent oral and written communication skills",
+      "prioritizes professionalism",
+      "dedicated team player",
+      "friendly persona",
+      "Ties to Nevada's First District (plus)"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-068-25",
+    "Posting_Author": "The Office of Representative Donald Norcross (NJ-01)",
+    "Congress_Number": null,
+    "State_District": "NJ-01",
+    "Location": "Washington D.C.",
+    "Job_Function": null,
+    "Title_Parsed": "Summer 2025 Internship program",
+    "Office_Type": "Congressional",
+    "Responsibilities": [
+      "assisting staff with legislative and administrative activities",
+      "assisting with constituent relations",
+      "responding to constituent mail",
+      "attending hearings and briefings",
+      "participating in professional development activities"
+    ],
+    "Qualifications": [
+      "organic",
+      "professional"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "The Office of Representative Donald Norcross (NJ-01) is an Equal Opportunity Employer.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-066-25",
+    "Posting_Author": "Chrissy Houlahan",
+    "Congress_Number": null,
+    "State_District": "PA-06",
+    "Location": "West Chester, Reading, and Washington, D.C.",
+    "Job_Function": "LEGISLATIVE INTERNSHIP",
+    "Title_Parsed": null,
+    "Office_Type": "Legislative Internship",
+    "Responsibilities": [
+      "helping constituents",
+      "doing research and drafting memos for our legislative staff",
+      "staffing the Congresswoman in hearings or meetings"
+    ],
+    "Qualifications": [
+      "prior volunteer experience",
+      "leadership skills",
+      "work experience",
+      "ties to PA-06"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer... This is not just a job search, but an opportunity for you to make a difference.",
+    "Cleaned_Text": "The Office of Representative Chrissy Houlahan (D-PA-06) is accepting applications for Summer 2025 legislative interns in our West Chester, Reading, and Washington, D.C. offices...",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-065-25",
+    "Posting_Author": "Chrissy Houlahan (D-PA-06)",
+    "Congress_Number": null,
+    "State_District": "PA-06",
+    "Location": "Washington, D.C., Reading, and West Chester offices",
+    "Job_Function": "PRESS INTERNSHIP: Summer 2025 Press Interns",
+    "Title_Parsed": "Summer 2025 Press Interns",
+    "Office_Type": "Internship",
+    "Responsibilities": null,
+    "Qualifications": null,
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "graphic design tools (Canva, InDesign, Illustrator)",
+      "photo editing programs (Photoshop, Lightroom)",
+      "video editing software (Premiere, Headliner)"
+    ],
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
+    "Cleaned_Text": "MEM-065-25 PRESS INTERNSHIP: The Office of Representative Chrissy Houlahan (D-PA-06) is accepting applications for Summer 2025 Press Interns in our Washington, D.C., Reading, and West Chester offices. This internship will run from late May through early August. We offer needs-based stipends to students who are in need. Our internship program has returned to in-person work with flexible telework options. Ideal applicants are adaptable and proactive self-starters who have experience in a facedpaced, deadline-oriented work environment. Applicants must be independent problemsolvers, have strong writing skills, and be comfortable communicating to both internal and external audiences. Technical experience with graphic design tools (Canva, InDesign, Illustrator), photo editing programs (Photoshop, Lightroom), or video editing software (Premiere, Headliner) a major plus. Press interns will be responsible for compiling and distributing press clips, helping draft copy for press and digital materials, and developing digital content. Press interns will have the opportunity to staff the congresswoman to capture videos and photos of events. We offer interns the opportunity to see Congress up close and from the inside. Prior volunteer, leadership, and work experience are a plus. Ties to PA-06 are also a plus. To apply, please send 1) a resume, 2) ONE brief paragraph about yourself and why you\\u2019re interested in interning in our office, 3) a writing sample, and 4) one example of digital work (video, graphic or photo) to PA06Press.Interships@mail.house.gov. Due to a high volume of applicants, you will likely only be contacted if you are selected for an interview. This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status. Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged to apply.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-058-25",
+    "Posting_Author": "",
+    "Congress_Number": null,
+    "State_District": "",
+    "Location": "",
+    "Job_Function": "",
+    "Title_Parsed": "Legislative Intern",
+    "Office_Type": "",
+    "Responsibilities": [],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "All applicants will be considered without regard to ",
+    "Cleaned_Text": "<a href=\"https://www.nutrition.gov/nodepage.aspx?rId=143&amp;pid=34335#p\":[\"The\"]<br>MEM-058-25</a><br>\n\nLegislative Intern<br>\n\n<a href:\\n https://ec.fact Sheet\\house.gov/images/electronic/EC.pdf&quot;>House Energy and Commerce Committee<a href='https://www.nutrition.gov/nodepage.aspx?rId=143&amp;pid=34335#p'>&#39;EC&#39;&#39;</a><br><div class=\"headerfooterline\">Staff Contact: info@ouse.gov</div>\n\n\n<br>The\" Democratic Staff of the House Energy and Commerce Committee seeks qualified\nundergrad students and recent graduates for Legislative Interns for the Summer 2025\nsession.\nAn internship with the Energy and Commerce Democrats is designed to give students a\nthorough understanding of a Congressional committee's role in the legislative process.\nThroughout the course of the program, interns will assist staff with administrative tasks\nsuch as answering phones, conducting legislative research, and preparing materials for\nstaff and member briefings. In addition, interns will have the opportunity to shadow staff at\nfhearings and markups, as well as attend briefings on subjects within the Committee's\nbroad jurisdiction.\nOur ideal candidates are organized and committed students eager to join a fast-paced\nenvironment and build upon their knowledge of how Congress works—in particular,\ntheparticular role that congressional committees play in the federal legislative process.\nSuperior writing and communication skills, attention to detail, and a sense of humor are\ne required. Fulltime availability is preferred, but part-time candidates are eligible as well.\nAll applicants will be considered without regard to race, color, national origin, religion,\nsex (including marital or parental status), sexual orientation, gender identity, disability,\nor age.\nWomen, minority, and veteran candidates are highly encouraged to apply. Interns will\ntreceive a stipend, and applicants may request the Committee’s assistance to receive credit\nfrom their educational institution.\nInterested applicants should submit their resume, cover letter, and one writing sample\n(two pages max.) to <a href=\\n \"mailto:InternshipResume.EC Mail.house.gov\">Internship Resume</a>\n EC&#39;&#39;.\nIn your cover letter, please\nindicate preferred start/end dates for scheduling purposes and whether you are\navailable to work full-time or part-time. Please put “Summer 2025 Legislative Intern Application” in\nThe subject line. The deadline for applications is March 21, 2025. Please no phone calls or\ndrop-ins.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-055-25",
+    "Posting_Author": "Congressman French Hill",
+    "Congress_Number": null,
+    "State_District": null,
+    "Location": "Washington, D.C., and Arkansas.",
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": null,
+    "Responsibilities": [
+      "interacting with Arkansans and other visitors",
+      "conducting legislative research and writing",
+      "drafting communications materials",
+      "assisting Arkansans with matters before the federal government"
+    ],
+    "Qualifications": [
+      "positive attitude",
+      "strong work ethic",
+      "excellent written and oral communication skills",
+      "working knowledge of current events and policy topics as required",
+      "willingness to assist with daily office tasks, social media and other communications experience a plus"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "legislative research",
+      "communications",
+      "writing"
+    ],
+    "Equal_Opportunity_Information": "",
+    "Cleaned_Text": "Congressman French Hill Internship Program",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-050-25",
+    "Posting_Author": "Congresswoman Gwen Moore (WI-04)",
+    "Congress_Number": null,
+    "State_District": "WI-04",
+    "Location": "Washington D.C.",
+    "Job_Function": null,
+    "Title_Parsed": null,
+    "Office_Type": "office",
+    "Responsibilities": [
+      "answering phones",
+      "attending hearings and briecngs",
+      "drafting and editing constituent correspondence letters",
+      "writing memos",
+      "conducting research for the legislative stas",
+      "developing social media posts",
+      "designing graphics",
+      "providing support for the day-to-day activities of the office"
+    ],
+    "Qualifications": [
+      "writing",
+      "communication",
+      "organization"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [
+      "research",
+      "composition",
+      "design"
+    ],
+    "Equal_Opportunity_Information": null,
+    "Cleaned_Text": "MEM-050-25The Washington D.C. osice of Congresswoman Gwen Moore (WI-04) seeks Interns for the  upcoming Summer 2025 term.\nResponsibilities include answering phones, attending hearings and briecngs, drafting and editing constituent correspondence letters, writing memos, conducting research for the legislative stas, drafting social media posts, designing graphics, and providing support for the day-to-day activities of the office. Interns are paid via a monthly stipend.\nThe Osice of Congresswoman Moore is an equal opportunity employer. We do not discriminate based on race, ethnicity, gender, sexual orientation, religion, national origin, age, or socioeconomic status.\nAll are welcome and encouraged to apply.\nInterested applicants should send a resume, cover letter, and two short writing samples to  WI04DC.Internships Mail ¬mail.house.gov. Additionally, applicants should indicate their availability on both an hourly and monthly basis. The deadline to apply is 6:00 PM ET on Friday, April 11th, 2025.",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Post_ID": "MEM-178-25",
+    "Posting_Author": "Congressman French Hill",
+    "Congress_Number": null,
+    "State_District": "AR02",
+    "Location": "DC and Little Rock offices",
+    "Job_Function": "null",
+    "Title_Parsed": null,
+    "Office_Type": "null",
+    "Responsibilities": [
+      "answering constituent phone calls"
+    ],
+    "Qualifications": [],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": [],
+    "Equal_Opportunity_Information": "US Congressman french Hill is an equal opportunity employer.",
+    "Cleaned_Text": "Congressman French Hill (AR02) has internship positions available for the Fall 2025 term\nin both his DC and Little Rock offices.\nInterns will work in a fast-paced environment, gaining valuable exposure and knowledge of\nthe legislative process and the U.S. Congress while helping central Arkansans. Intern\nresponsibilities include answering constituent phone calls, assisting staff with\nadministrative tasks, conducting legislative research,\nand assisting with correspondence.\nInterns should have a positive attitude, strong work ethic, and excellent written and oral\ncommunication skills. Successful interns will be detail-oriented self-starters, take and\nlisten to direction, and be willing to work both independently and as part of a team.\nApplicants should have a working knowledge of current events and policy topics as well as\na willingness to assist with daily office tasks. Arkansas ties strongly preferred.\nInternships are open to college and graduate students as well as recent graduates. The\noffice offers paid and unpaid internships depending on availability.\nTo apply, please send a resume and cover letter to AR02.Applications@mail.house.gov\nindicating which location you are applying for. Applications should be submitted by June\n30 but will be accepted on a rolling basis until all positions are filled.\nIf you have any questions, you can contact the office for additional information at (202)\n225-2506.",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-175-25",
+    "Posting_Author": "Congresswoman Suzan DelBene",
+    "Congress_Number": null,
+    "State_District": "1st Congressional District of Washington state",
+    "Location": "Washington, D.C. and District offices; Kirkland, WA",
+    "Job_Function": null,
+    "Title_Parsed": "Internship for Congressional Interns",
+    "Office_Type": null,
+    "Responsibilities": [
+      "greeting constituents",
+      "handling constituent phone calls",
+      "assisting staff with administrative tasks",
+      "conducting research",
+      "assist[ing] with constituent correspondence"
+    ],
+    "Qualifications": [
+      "possess[ing] exceptional written and oral communication skills",
+      "a high degree of professionalism",
+      "a strong interest in public service"
+    ],
+    "Salary_Min": null,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
+    "Cleaned_Text": "MEM-175-25 Congresswoman Suzan DelBene, representing the 1st Congressional District of Washington state, seeks interns for her Washington, D.C. and District offices... Interns will work in a fast-paced congressional office, gaining valuable experience and knowledge of the United States Congress. Intern responsibilities include greeting constituents and handling constituent phone calls...",
+    "DW_NOMINATE": null,
+    "LES": null
+  },
+  {
+    "Post_ID": "MEM-171-25",
+    "Posting_Author": "U.S. Congressman Jeff Van Drew",
+    "Congress_Number": null,
+    "State_District": "NJ-02",
+    "Location": "Washington, D.C.",
+    "Job_Function": null,
+    "Title_Parsed": "Interns for the fall internship session",
+    "Office_Type": "conservative",
+    "Responsibilities": [
+      "greeting visitors",
+      "answering phones",
+      "leading tours of the Capitol",
+      "opening and sorting mail",
+      "attending briefings",
+      "performing legislative research"
+    ],
+    "Qualifications": null,
+    "Salary_Min": 1000,
+    "Salary_Max": null,
+    "Skills_Mentioned": null,
+    "Equal_Opportunity_Information": "This is a conservative office, so each intern will be required to express the Congressman's conservative perspective to constituents and people who call into the office.",
+    "Cleaned_Text": "",
+    "DW_NOMINATE": null,
+    "LES": null
+  }
+]
